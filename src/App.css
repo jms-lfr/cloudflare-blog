@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+.posts {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  vertical-align: top;
+}
+
+.backbutton {
+  text-align: left;
+  text-indent: 80px;
+  padding-top: 30px;
+  vertical-align: middle; 
+  line-height: 1; 
+  display: inline-block;
+  width: 49%;
+}
+
+.submitbutton {
+  text-align: right;
+  text-indent: 40px;
+  padding-top: 30px;
+  direction: rtl;
+  vertical-align: middle; 
+  line-height: 1; 
+  display: inline-block;
+  width: 49%;
+}
+
+.space {
+  margin-top: 0px;
+}
+
+.submission {
+  width: 50%;
+  margin: auto;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 2;
+}
+
+.image {
+  max-width: 600px;
+  max-height: 400px;
+}
